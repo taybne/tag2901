@@ -1,0 +1,8 @@
+﻿Flask
+Flask-SQLAlchemy
+Flask-Admin
+Werkzeug
+flask-cors
+SQLAlchemy
+Jinja2
+WTForms
